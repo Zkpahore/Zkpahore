@@ -47,9 +47,9 @@ const Skills = () => {
   <li className="border-2 p-1 border-purple-400">Nodemon</li>
   <li className="border-2 p-1 border-green-400">mangoose</li>
   <li className="border-2 p-1 border-yellow-400">Rest API</li>
-  <li className="border-2 p-1 border-pink-400">React Router</li>
-  <li className="border-2 p-1 border-orange-400">Tailwind Css</li>
-  <li className="border-2 p-1 border-purple-700">Boootstrap css</li>
+ 
+  
+  
 </ul>
 </div>
 </div>

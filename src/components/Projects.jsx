@@ -4,7 +4,7 @@ function Projects() {
   return (
     <div className='flex flex-wrap w-full justify-center gap-10' id='project'>
       
-   <div className="text-gray-800 bg-white mt-8 rounded shadow-md flex-shrink-0  w-full md:1/4 lg:w-1/4">
+   <div className="text-gray-800 bg-white mt-8 rounded shadow-md flex-shrink-0  w-full md:w-1/4 lg:w-1/4">
    
     <h1 className="text-2xl text-center font-bold m-6">Task Manager</h1>
     
@@ -24,7 +24,7 @@ function Projects() {
    </div>
    
    
-    <div className="text-gray-800 bg-white mt-8 rounded shadow-md m-4 flex-shrink-0  w-full md:1/4 lg:w-1/4">
+    <div className="text-gray-800 bg-white mt-8 rounded shadow-md m-4 flex-shrink-0  w-full md:w-1/4 lg:w-1/4">
    <br />
     <h1 className="text-2xl text-center font-bold">Marketing</h1>
     <br />
@@ -43,7 +43,7 @@ function Projects() {
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9t0zhoan7POHtPBqwF-ZJOjAqdP-BqxQLkNMQpKApPUpOJofhRyfEEXbA&s=10"/>
    </div>
    
-   <div className="text-gray-800 bg-white mt-8 rounded shadow-md m-4 flex-shrink-0  w-full md:1/4 lg:w-1/4">
+   <div className="text-gray-800 bg-white mt-8 rounded shadow-md m-4 flex-shrink-0  w-full md:w-1/4 lg:w-1/4">
    <br />
     <h1 className="text-2xl text-center font-bold">E-Commerce</h1>
     <br />

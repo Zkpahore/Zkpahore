@@ -1,4 +1,5 @@
 import React from 'react';
+import Navbar from './components/Navbar';
 import Profile from './components/Profile';
 import Skills from './components/Skills';
 import Projects from './components/Projects';
@@ -13,7 +14,7 @@ const App = () => {
         <a href='https://wa.me/message/CUNUVWJUHIDGG1'>
         <img src='icon.gif'/> </a>
         </div>
-
+<Navbar />
 <Profile />
 <Skills />
 <Projects />

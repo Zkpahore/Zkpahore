@@ -12,6 +12,7 @@ const App = () => {
         <img src='icon.gif'/> </a>
         </div>
 <Navbar />
+<Profile />
 </div>
     
      </>

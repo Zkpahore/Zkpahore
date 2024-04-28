@@ -11,7 +11,7 @@ const App = () => {
         <a href='https://wa.me/message/CUNUVWJUHIDGG1'>
         <img src='icon.gif'/> </a>
         </div>
-
+<Navbar />
 </div>
     
      </>

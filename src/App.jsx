@@ -15,13 +15,6 @@ const App = () => {
         <img src='icon.gif'/> </a>
         </div>
 
-<Navbar />
-
-<Profile />
-<Skills />
-<Projects />
-<Footer />
-</div>
 
     
      </>

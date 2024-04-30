@@ -3,7 +3,7 @@ import Navbar from './components/Navbar';
 import Profile from './components/Profile';
 import Skills from './components/Skills';
 import Projects from './components/Projects';
-import Footer from './components/Footer'
+import Footer from './components/Footer
 const App = () => {
 
   return (
@@ -14,15 +14,12 @@ const App = () => {
         <a href='https://wa.me/message/CUNUVWJUHIDGG1'>
         <img src='icon.gif'/> </a>
         </div>
-
 <Navbar />
-
 <Profile />
 <Skills />
 <Projects />
 <Footer />
 </div>
-
     
      </>
   );

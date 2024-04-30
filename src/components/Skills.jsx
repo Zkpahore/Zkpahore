@@ -52,6 +52,7 @@ const Skills = () => {
           </p>
         </div>
 
+<<<<<<< HEAD
         <div className="w-full lg:w-1/2 md:w-1/2 p-6">
           <div>
             <h1 className="font-bold ml-4 mt-6 text-purple-500 text-lg">Studied at</h1>
@@ -69,6 +70,25 @@ const Skills = () => {
       </div>
     </>
   );
+=======
+<div className="m-4 w-full"> 
+ <h1 className="m-4 text-lg font-bold">Back End</h1>
+<ul className="flex flex-wrap space-x-4 space-y-4 list-none w-full text-center font-serif font-bold">
+  <li className="border-2 p-1 border-sky-600">ExpressJs</li>
+  <li className="border-2 p-1 border-red-400">NodeJs</li>
+  <li className="border-2 p-1 border-purple-400">Nodemon</li>
+  <li className="border-2 p-1 border-green-400">mangoose</li>
+  <li className="border-2 p-1 border-yellow-400">Rest API</li>
+ 
+  
+  
+</ul>
+</div>
+</div>
+</div>
+        </>
+    )
+>>>>>>> 4d08a1feafdaad865936b43409e45c34b380f056
 }
 
 export default Skills;

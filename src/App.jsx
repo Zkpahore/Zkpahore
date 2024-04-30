@@ -3,7 +3,7 @@ import Navbar from './components/Navbar';
 import Profile from './components/Profile';
 import Skills from './components/Skills';
 import Projects from './components/Projects';
-import Footer from './components/Footer
+import Footer from './components/Footer';
 const App = () => {
 
   return (

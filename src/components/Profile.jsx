@@ -12,8 +12,8 @@ const Profile = () => {
         <>
         <div className='flex flex-wrap'>
 <div className='flex-shrink-0 bg-gradient-to-r from-yellow-200 via-yellow-400 to-yellow-700 w-11/12 mx-auto mt-4 md:mt-0 lg:mt-0 md:w-1/2 lg:w-1/2 rounded-md shadow-md text-center'>
-  <img className='w-40 h-40 rounded-full mx-auto p-3'
-  src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRci2dRAVcdgKmLmpTOmUcWrO-KG9Q46rV9FjysvBBlhQ&s' />
+  <img className='w-40 h-40 rounded-full mx-auto m-3 bg-slate-900'
+  src='zkpo.png' />
 <h1 className='text-3xl font-bold text-gray-800 mb-4'>Hello,<br />I'm <strong className='text-red-700'>Muhammad Zahir</strong> Pahore</h1>
 <p className='text-lg text-gray-600 font-bold'>Passionate MERN Stack Developer</p>
 <hr className='my-6 mx-auto border-0 bg-green-500 h-1 w-4/5 rounded-md' />
